@@ -1,0 +1,45 @@
+.heading
+{
+    color: red;
+    font-family: cursive;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+}
+
+#tiger
+{
+    height: 300px;
+    width: 300px;
+}
+
+#elephant
+{
+    height: 300px;
+    width: 300px;
+}
+
+#zebra
+{
+    height: 300px;
+    width: 300px;
+}
+
+#squirrel
+{
+    height: 300px;
+    width: 300px;
+}
+
+#lion
+{
+    height: 300px;
+    width: 300px;
+}
+
+#giraffe
+{
+    height: 300px;
+    width: 300px;
+}
+
